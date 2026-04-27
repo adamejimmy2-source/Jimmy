@@ -19,4 +19,4 @@ This project uses an STM32 Nucleo-L476RG to control a fan based on temperature u
 - Buzzer
 
 ## Author
-Jimmy Adame, Jason Snomi
+Jimmy Adame(team Lead), Jason Snomi,Alex Beltran
